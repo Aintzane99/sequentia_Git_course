@@ -1,2 +1,0 @@
-# edit from main branch
-# edit from first_branch branch
